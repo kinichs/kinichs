@@ -35,11 +35,6 @@ width="150" src="https://external-media.spacehey.net/media/s_hNQdqNnRwky5GiSjUVg
     <img width="150" src="https://blinki.es/blinkies/animal/horses-make-me-smile.gif">
 </p>
 <p align="center">
-    <img width="150" src="https://collection.ju.mp/assets/images/gallery02/2fc6c9c3.gif?v=0236594d"> <img src="https://collection.ju.mp/assets/images/gallery09/7090ef99.gif?v=0236594d">
-    <img width="150" src="https://external-media.spacehey.net/media/sh94FJnksg1udVtGtv1ahKkCsygux7nLjVeNNt1t5aFI=/https://emocowboy.neocities.org/home/graphics/blinkies/poppunklover.gif">
-    <img width="150" src="https://media.tenor.com/MMNWAy_roJwAAAAM/lgbtqia-blinkie.gif">
-</p>
-<p align="center">
     <img width="150" src="https://external-media.spacehey.net/media/saNRn_xCjCCHTW5zIDBvfEkj84ur1RyXQydR-hfGkiP0=/https://emocowboy.neocities.org/home/graphics/blinkies/dvdcrazy.gif"> <img width="150" src="https://gifcity.carrd.co/assets/images/gallery21/2edf8f81.gif?v=26dffab5">
     <img width="150" src="https://external-media.spacehey.net/media/sSOfWl9jjwZChDIjspuhqTCa9RovQ00HklMzTBGyW8-4=/https://emocowboy.neocities.org/home/graphics/blinkies/antisocial.gif">
     <img width="150" src="https://plasticdino.neocities.org/blinkie/bitten.gif">
