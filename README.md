@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://i.imgur.com/GJ9I8FN.png" alt="tighnari">
+    <img width="400" src="https://i.imgur.com/QYdhqYk.png" alt="">
 </p>
 <p align="center">
  ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
