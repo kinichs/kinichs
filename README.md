@@ -17,5 +17,5 @@
 ___
 
  <p align="center">
-    <img width="220" src="https://qph.cf2.quoracdn.net/main-qimg-dd70ba1d2779e549ee3473844ab6ffab" alt="">
+    <img width="300" src="https://qph.cf2.quoracdn.net/main-qimg-dd70ba1d2779e549ee3473844ab6ffab" alt="">
 </p>
