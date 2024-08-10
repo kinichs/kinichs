@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="380" src="https://64.media.tumblr.com/a95db82640ff3c6b627878f483517880/d86282d046c648e2-b0/s1280x1920/3c226ad84596bb9951a7b41eb7a80c70c1e745d2.png" alt="">
+    <img width="250" src="https://64.media.tumblr.com/4390cf0f0d6f3192487011be079975e5/663f9fc37060821e-b1/s640x960/87d6c8cb5dcc63731c66f9fba55a024706b3ee3d.pnj" alt="">
 </p>
 <p align="center">
     <img width="370" src="https://i.imgur.com/XuWfb4Q.png" alt="">
