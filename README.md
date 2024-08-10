@@ -1,3 +1,6 @@
+ <p align="center">
+    <img width="220" src="https://i.imgur.com/4YgQCBZ.png" alt="">
+</p>
 <p align="center">
     <img width="320" src="https://i.imgur.com/bSbY732.png" alt="">
 </p>
