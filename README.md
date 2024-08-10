@@ -8,4 +8,4 @@
  <p align="center">
  mikaㅤㅤhe/himㅤㅤ16
   <p align="center">
-    <img width="230" src="https://i.imgur.com/afHo06m.png" alt="">
+    <img width="280" src="https://i.imgur.com/afHo06m.png" alt="">
