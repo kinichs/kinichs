@@ -1,5 +1,4 @@
 <p align="center">
- ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 <p align="center">
     <img width="320" src="https://i.imgur.com/XuWfb4Q.png" alt="">
 </p>
