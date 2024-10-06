@@ -1,6 +1,3 @@
- <p align="center">
-    <img width="220" src="https://i.imgur.com/4YgQCBZ.png" alt="">
-</p>
 <p align="center">
     <img width="320" src="https://i.imgur.com/bSbY732.png" alt="">
 </p>
@@ -8,7 +5,7 @@
     <img width="230" src="https://i.imgur.com/S91miqX.png" alt="">
 </p>
  <p align="center">
-    <img width="150" src="https://i.imgur.com/U1Rldus.png" alt="">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=FFA5A5&center=true&vCenter=true&width=1300&height=30&lines=and+i+dont+blame+you;if+you+want+to;bury+me+in+your+memory;im+not+the+boy+i+ought+to+be+%2C+but;maybe+when+you+tell+your+friends;you+can+tell+them+what+you+saw+in+me;and+not+the+way+i+am+.;+;+">
 </p>
   <p align="center">
     <img width="280" src="https://i.imgur.com/afHo06m.png" alt="">
