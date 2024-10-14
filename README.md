@@ -13,6 +13,6 @@
 ##
 
 <p align="center">
-  <img width="250" src="https://i.imgur.com/jhsg1Cr.png">
+  <img width="230" src="https://i.imgur.com/jhsg1Cr.png">
 </p>
 
