@@ -9,6 +9,6 @@
 ---
 
 <p align="center">
-  <img width="300" src="https://i.imgur.com/RqSOlDd.png">
+  <img width="300" src="https://i.imgur.com/jhsg1Cr.png">
 </p>
 
