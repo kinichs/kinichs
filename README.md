@@ -10,10 +10,6 @@
   <img width="100" src="https://i.imgur.com/2bsBElI.png">
 </p>
   
-<p align="center">
-  <img width="380" src="https://i.imgur.com/vvjQzT8.png">
-</p>
-  
 ##
 
 <p align="center">
