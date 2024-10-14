@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://i.imgur.com/bSWUXea.png">
+  <img width="450" src="https://i.imgur.com/bSWUXea.png">
 </p>
 
 <p align="center">
@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img width="500" src="https://i.imgur.com/Jdx72yw.gif">
+  <img width="450" src="https://i.imgur.com/Jdx72yw.gif">
 </p>
   
 ##
 
 <p align="center">
-  <img width="300" src="https://i.imgur.com/jhsg1Cr.png">
+  <img width="250" src="https://i.imgur.com/jhsg1Cr.png">
 </p>
 
