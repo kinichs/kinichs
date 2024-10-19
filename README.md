@@ -11,6 +11,6 @@
 ##
 
 <p align="center">
-  <img width="200" src="https://i.imgur.com/4QqG4i5.png"> <img width="200" src="https://i.imgur.com/pJKb2Pt.png">
+  <img width="200" src="https://i.imgur.com/JruDRCo.png"> <img width="200" src="https://i.imgur.com/LdYQM9l.png">
 </p>
 
