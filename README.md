@@ -1,7 +1,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://komarev.com/ghpvc/?username=kinichs&color=22a9c0&label=heyllo+ponytowners)
 
 <p align="center">
-  <img width="350" src="https://i.imgur.com/FUwUDOW.png">
+  <img width="350" src="https://i.imgur.com/DsD5GTo.png">
 </p>
 
 <p align="center">
